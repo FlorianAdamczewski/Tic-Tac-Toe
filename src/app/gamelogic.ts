@@ -73,12 +73,6 @@ export class Gamelogic {
         }
     }
 
-    gameEnd(): void {
-        this.gameStatus = Status.STOP;
-    }
-
-
-
     async checkGameEndFull(): Promise<boolean> {
         let isFull = true;
         if (this.gameField.includes(0)) {
