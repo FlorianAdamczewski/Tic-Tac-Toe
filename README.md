@@ -1,5 +1,11 @@
 # TicTacToe
-
+-------------------------------------------------------------------------------------
+Ausführen:
+1) Angular Instalieren: npm install -g @angular/cli
+2) per Cmd in den Tic-Tac-Toe ordner gehen
+3) Mit 'ng serve' im Tic-Tac-Toe Ordner Ausführen 
+4) Tic-Tac-toe steht im Browser unter http://localhost:4200/ zur Verfügung
+-------------------------------------------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
